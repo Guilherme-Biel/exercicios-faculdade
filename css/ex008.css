@@ -1,0 +1,11 @@
+h1 {
+    color: red;
+    background-color: aqua;
+    border-radius: 50px;
+    text-align: center;
+}
+
+p {
+    color: blue;
+    text-align: center;
+}
